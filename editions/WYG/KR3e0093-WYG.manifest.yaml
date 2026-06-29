@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3e0093/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0093/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒舌鑑
+  date: '2015-08-24 23:08:39.575626'
+  source:
+    repository: kanripo
+    path: KR3e0093
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0093_000-WYG.yaml, hash: 'sha256:0f13843950a8a37587700f807a6e2729b3feb461f75d459224fab490a87acfe6'}
+  - {seq: 1, filename: KR3e0093_001-WYG.yaml, hash: 'sha256:3fc4f1bd71eb3679e0f7ab9cfc155204a102a9d1d705752b48aadb8a062e0034'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0093_000-WYG.markers.yaml, hash: 'sha256:118855140b989145bbc992a64575336e734dd8c9a3285e5ce878760beffc28e8'}
+  - {seq: 1, role: markers, filename: assets/KR3e0093_001-WYG.markers.yaml, hash: 'sha256:4c9b962124fd623b79aba087540115859f8bc83fad43b58dba9e185b9546ebe1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0093_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 203
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0093_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1309
+  label: 傷寒舌鑑
+  type: section
+  level: 1
+hash: sha256:40c1d3b1323fe966ce09c6119bc67a426896007457a7937e35934bec48f8d401
