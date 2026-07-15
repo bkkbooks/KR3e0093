@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3e0093/v1
 canonical_location: https://kanripo.org/bkk/KR3e0093/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒舌鑑
   date: '2015-08-24 23:08:39.575626'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3e0093_000.yaml, hash: 'sha256:2867395310afce0dd16f9c5efc7bac7a533576fc1d648ec46bf2900a2ffe8cbc'}
-  - {seq: 1, filename: KR3e0093_001.yaml, hash: 'sha256:4588cf6a7908de0eee843f423fb73324ba7b8b95d9e47815d895d325c1b17e50'}
+  - {seq: 0, filename: KR3e0093_000.yaml, hash: 'sha256:c48bdac20d8e88032c861cfda5af924bd7794bf52373fbfd45d0d304a5c9df2c'}
+  - {seq: 1, filename: KR3e0093_001.yaml, hash: 'sha256:aa8db7fab43941bc8da59227ab130ba2acc433c6c26fdb536cc3216a1b02a010'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0093_000.markers.yaml, hash: 'sha256:a2124ca33c6f8d7b38f18edcf5dfdc946e19a07b2a9510170d9f5a93549fff15'}
-  - {seq: 1, role: markers, filename: assets/KR3e0093_001.markers.yaml, hash: 'sha256:d4ec544dc9cea92d319200ddf84a9926f5772d6b91e191fe7be4b261f55c2048'}
+  - {seq: 0, role: markers, filename: assets/KR3e0093_000.markers.yaml, hash: 'sha256:9a56d2e97d16e46902b4845147087c92cdadc14a85f0139fddc96c110d0e4917'}
+  - {seq: 1, role: markers, filename: assets/KR3e0093_001.markers.yaml, hash: 'sha256:76b1693788b5252483fd6bcf70120c6508a6128dd9001920171321201cce013d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: 傷寒舌鑑
   type: section
   level: 1
-hash: sha256:834f4467f4b6907aec2560a823abe7c2a5f1dc32cd51ae9a0d0d67bf0a1f229a
+hash: sha256:cd2d40fd1f1f0beebab1fca74d354fd71956a9674cafa7afc73a0b7af40aa7b2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
