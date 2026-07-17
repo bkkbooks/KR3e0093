@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR3e0093_000.yaml, hash: 'sha256:c48bdac20d8e88032c861cfda5af924bd7794bf52373fbfd45d0d304a5c9df2c'}
   - {seq: 1, filename: KR3e0093_001.yaml, hash: 'sha256:aa8db7fab43941bc8da59227ab130ba2acc433c6c26fdb536cc3216a1b02a010'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0093_000.markers.yaml, hash: 'sha256:9a56d2e97d16e46902b4845147087c92cdadc14a85f0139fddc96c110d0e4917'}
+  - {seq: 0, role: markers, filename: assets/KR3e0093_000.markers.yaml, hash: 'sha256:a6467cf9f19c9f7283eb2d6f249d6187d0ce5365c6df03ac8a9246362f5e93b9'}
   - {seq: 1, role: markers, filename: assets/KR3e0093_001.markers.yaml, hash: 'sha256:76b1693788b5252483fd6bcf70120c6508a6128dd9001920171321201cce013d'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 傷寒舌鑑
   type: section
   level: 1
-hash: sha256:cd2d40fd1f1f0beebab1fca74d354fd71956a9674cafa7afc73a0b7af40aa7b2
+hash: sha256:fa98895d3df06e94f497abe4b241abf1e5ba03971cf30f6119966a7e601606b1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
